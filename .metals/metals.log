@@ -1,0 +1,51 @@
+2020.10.13 21:24:15 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala' for client vscode.
+2020.10.13 21:24:15 INFO  time: initialize in 0.58s
+2020.10.13 21:24:16 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.13 21:24:21 INFO  no build target: using presentation compiler with only scala-library
+2020.10.13 21:24:21 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\HelloWorld.scala
+2020.10.13 21:24:43 INFO  shutting down Metals
+2020.10.14 10:22:32 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala' for client vscode.
+2020.10.14 10:22:33 INFO  time: initialize in 0.32s
+2020.10.14 10:22:33 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.14 10:22:35 INFO  no build target: using presentation compiler with only scala-library
+2020.10.14 10:22:35 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\HelloWorld.scala
+2020.10.14 10:27:37 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala' for client vscode.
+2020.10.14 10:27:37 INFO  time: initialize in 0.35s
+2020.10.14 10:27:41 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.14 10:27:45 INFO  no build target: using presentation compiler with only scala-library
+2020.10.14 10:27:45 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\HelloWorld.scala
+2020.10.14 10:28:26 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\HelloWorld.scala
+2020.10.14 10:28:37 INFO  
+2020.10.14 10:28:37 INFO  Template applied in C:\Users\thexa\OneDrive\MagnusCMD\Scala\.\hello-world
+2020.10.14 10:28:37 INFO  
+2020.10.14 10:28:37 INFO  build tool exit: 0
+2020.10.14 10:28:37 INFO  time: ran 'giter8.Giter8' in 7.17s
+2020.10.14 10:28:42 INFO  shutting down Metals
+2020.10.14 10:31:34 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala' for client vscode.
+2020.10.14 10:31:34 INFO  time: initialize in 0.32s
+2020.10.14 10:31:35 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+oct 14, 2020 10:31:48 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTraceNotification
+2020.10.14 10:32:17 ERROR 
+2020.10.14 10:32:17 ERROR unknown repository type: HelloWorld
+2020.10.14 10:32:17 ERROR 
+2020.10.14 10:32:17 INFO  build tool exit: 1
+2020.10.14 10:32:17 INFO  time: ran 'giter8.Giter8' in 0.73s
+2020.10.14 10:49:44 INFO  shutting down Metals
+2020.10.14 13:24:26 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala' for client vscode.
+2020.10.14 13:24:26 INFO  time: initialize in 0.33s
+2020.10.14 13:24:26 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.14 13:24:28 INFO  no build target: using presentation compiler with only scala-library
+2020.10.14 13:24:28 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.14 13:24:28 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.14 13:24:28 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.14 13:24:28 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+oct 14, 2020 1:24:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+2020.10.14 13:24:28 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.14 13:24:28 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.14 13:29:34 INFO  shutting down Metals
+2020.10.14 16:08:57 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala' for client vscode.
+2020.10.14 16:08:58 INFO  time: initialize in 0.77s
+2020.10.14 16:08:59 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.14 16:09:02 INFO  shutting down Metals
