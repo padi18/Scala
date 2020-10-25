@@ -49,3 +49,297 @@ ADVERTENCIA: Unmatched cancel notification for request id 2
 2020.10.14 16:08:58 INFO  time: initialize in 0.77s
 2020.10.14 16:08:59 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 2020.10.14 16:09:02 INFO  shutting down Metals
+2020.10.15 11:32:52 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala' for client vscode.
+2020.10.15 11:32:53 INFO  time: initialize in 0.35s
+2020.10.15 11:32:53 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.15 11:32:55 INFO  no build target: using presentation compiler with only scala-library
+2020.10.15 11:33:03 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+oct 15, 2020 11:33:07 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTraceNotification
+2020.10.15 11:33:37 INFO  shutting down Metals
+2020.10.18 16:19:15 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala' for client vscode.
+2020.10.18 16:19:16 INFO  time: initialize in 0.36s
+2020.10.18 16:19:16 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.18 16:19:18 INFO  no build target: using presentation compiler with only scala-library
+2020.10.18 16:19:18 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:19:41 INFO  
+2020.10.18 16:19:41 INFO  Template applied in C:\Users\thexa\OneDrive\MagnusCMD\.\scalatest-example
+2020.10.18 16:19:41 INFO  
+2020.10.18 16:19:41 INFO  build tool exit: 0
+2020.10.18 16:19:41 INFO  time: ran 'giter8.Giter8' in 4.14s
+2020.10.18 16:19:51 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.18 16:19:51 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.18 16:19:51 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.18 16:19:51 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.18 16:19:53 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.18 16:19:53 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.18 16:19:55 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.18 16:20:29 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:20:40 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:20:42 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:20:46 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:20:48 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:20:51 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:20:53 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:20:57 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:20:58 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:21:00 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:21:03 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:21:05 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:21:08 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:21:09 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:21:10 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:21:12 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:21:14 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:21:17 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:21:22 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:21:23 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:21:27 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:21:30 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:21:34 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+oct 18, 2020 4:22:01 PM scala.meta.internal.pc.completions.Completions completionPosition
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+oct 18, 2020 4:22:01 PM scala.meta.internal.pc.completions.Completions completionPosition
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+oct 18, 2020 4:22:03 PM scala.meta.internal.pc.completions.Completions completionPosition
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+oct 18, 2020 4:22:03 PM scala.meta.internal.pc.completions.Completions completionPosition
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+oct 18, 2020 4:22:04 PM scala.meta.internal.pc.completions.Completions completionPosition
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+2020.10.18 16:22:04 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+oct 18, 2020 4:22:05 PM scala.meta.internal.pc.completions.Completions completionPosition
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+2020.10.18 16:22:06 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+oct 18, 2020 4:22:06 PM scala.meta.internal.pc.completions.Completions completionPosition
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+oct 18, 2020 4:22:06 PM scala.meta.internal.pc.completions.Completions completionPosition
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+oct 18, 2020 4:22:06 PM scala.meta.internal.pc.completions.Completions completionPosition
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+oct 18, 2020 4:22:07 PM scala.meta.internal.pc.completions.Completions completionPosition
+GRAVE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+2020.10.18 16:22:09 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 16:22:11 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.18 17:16:03 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.18 17:16:05 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.18 17:16:05 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.18 17:16:06 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.18 17:16:06 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.18 17:16:06 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.18 17:16:43 INFO  shutting down Metals
+2020.10.24 21:13:30 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala' for client vscode.
+2020.10.24 21:13:30 INFO  time: initialize in 0.32s
+2020.10.24 21:13:30 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.24 21:13:32 INFO  no build target: using presentation compiler with only scala-library
+2020.10.24 21:13:32 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.24 21:16:48 ERROR 
+2020.10.24 21:16:48 ERROR null
+2020.10.24 21:16:48 ERROR 
+2020.10.24 21:16:48 INFO  build tool exit: 1
+2020.10.24 21:16:48 INFO  time: ran 'giter8.Giter8' in 3.08s
+2020.10.24 21:17:07 ERROR 
+2020.10.24 21:17:07 ERROR unknown repository type: calculator
+2020.10.24 21:17:07 ERROR 
+2020.10.24 21:17:07 INFO  build tool exit: 1
+2020.10.24 21:17:07 INFO  time: ran 'giter8.Giter8' in 0.73s
+2020.10.24 21:17:37 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.24 21:17:37 WARN  no build tool detected in workspace 'C:\Users\thexa\OneDrive\MagnusCMD\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.24 21:17:38 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.24 21:19:07 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.24 21:19:20 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.24 21:19:22 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+2020.10.24 21:19:23 WARN  no build target for: C:\Users\thexa\OneDrive\MagnusCMD\Scala\hello-world\src\main\scala\Main.scala
+oct 24, 2020 9:25:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTraceNotification
+2020.10.24 21:25:50 INFO  shutting down Metals
